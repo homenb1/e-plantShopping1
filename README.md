@@ -1,2 +1,1 @@
-# e-plantShopping1
-Final project
+# coding-project-template
